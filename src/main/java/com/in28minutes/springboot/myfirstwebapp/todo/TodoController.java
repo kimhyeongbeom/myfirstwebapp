@@ -3,7 +3,6 @@ package com.in28minutes.springboot.myfirstwebapp.todo;
 import java.time.LocalDate;
 import java.util.List;
 
-import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.PathVariable;

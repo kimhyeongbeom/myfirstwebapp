@@ -95,6 +95,19 @@
 			<version>3.7.1</version>
 		</dependency>
 
+		<dependency>
+			<groupId>com.itextpdf</groupId>
+			<artifactId>itext7-core</artifactId>
+			<version>7.1.16</version>
+			<type>pom</type>
+		</dependency>
+
+		<dependency>
+			<groupId>com.itextpdf</groupId>
+			<artifactId>barcodes</artifactId>
+			<version>7.1.16</version>
+		</dependency>
+
 		<!-- https://mvnrepository.com/artifact/org.webjars/bootstrap-datepicker -->
 		<dependency>
 			<groupId>org.webjars</groupId>

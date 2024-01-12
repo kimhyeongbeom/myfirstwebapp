@@ -21,11 +21,11 @@ public class TodoControllerJpa {
 
     private TodoRepository todoRepository;
 
-    private TodoService todoService;
+    //private TodoService todoService;
 
     public TodoControllerJpa(TodoService todoService, TodoRepository todoRepository) {
         super();
-        this.todoService = todoService;
+        //this.todoService = todoService;
         this.todoRepository = todoRepository;
     }
 
